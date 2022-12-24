@@ -2,7 +2,7 @@ const width = 500;
 const height = 600;
 const quantity = 150;
 const types = [ 'text', 'select', 'progress', 'meter', 'button', 'radio', 'checkbox' ];
-const greetings = ['Merry Christmas','2022.12.25','Happy Holidays'];
+const greetings = [ 'Merry Christmas',"圣诞快乐" ,"小慧","12.25","happiness","beauty","Best wishes","joy","peace","平安夜"];
 let tree = document.querySelector( '.tree' ),
 	treeRotation = 0;
  
